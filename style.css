@@ -1,0 +1,148 @@
+.kisi {
+    letter-spacing: -1.5px;
+}
+
+.lop {
+    text-decoration: underline;
+}
+
+Body {
+    background-image: url(https://onetreeplanted.org/cdn/shop/articles/Forest_Fog_1600x.jpg?v=1682535224);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.LOL {
+    text-align: center;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar {
+    border-bottom: 1px solid white;
+    height: 85px;
+}
+
+ul a {
+    text-transform: uppercase;
+}
+
+.hi1 {
+    font-size: 80px;
+}
+
+.hi2 {
+    font-size: 50px;
+}
+
+.hi3 {
+    font-size: 20px;
+}
+
+.hi4 {
+    font-size: 50px;
+}
+
+.jpi {
+    min-height: calc(100vh - 85px);
+}
+
+@media (min-width: 0px) and (max-width: 575.98px) {
+    .hi1 {
+        font-size: 35px;
+    }
+
+    .hi2 {
+        font-size: 20px;
+    }
+
+    .hi3 {
+        font-size: 12.5px;
+    }
+
+    .hi4 {
+        font-size: 20px;
+    }
+
+    ul {
+        background-color: #91beea;
+    }
+
+    .navbar {
+        background-color: #91beea;
+        border-bottom: 1px solid white;
+        height: 130px;
+
+    }
+    .jpi {
+        min-height: calc(100vh - 130px);
+    }
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .hi1 {
+        font-size: 45px;
+    }
+
+    .hi2 {
+        font-size: 30px;
+    }
+
+    .hi3 {
+        font-size: 15px;
+    }
+
+    .hi4 {
+        font-size: 30px;
+    }
+
+    ul {
+        background-color: #91beea;
+    }
+
+    .navbar {
+        background-color: #91beea;
+        border-bottom: 1px solid white;
+        height: 130px;
+
+    }
+    .jpi {
+        min-height: calc(100vh - 130px);
+    }
+
+}
+
+@media (min-width: 767.98px) and (max-width: 991.98px) {
+    .hi1 {
+        font-size: 60px;
+    }
+
+    .hi2 {
+        font-size: 40px;
+    }
+
+    .hi3 {
+        font-size: 20px;
+    }
+
+    .hi4 {
+        font-size: 40px;
+    }
+
+    ul {
+        background-color: #91beea;
+    }
+
+    .navbar {
+        background-color: #91beea;
+        border-bottom: 1px solid white;
+        height: 130px;
+
+    }
+    .jpi {
+        min-height: calc(100vh - 130px);
+    }
+}
